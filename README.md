@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=OMAR%20AL-DAHLEH&fontSize=52&fontAlignY=38&desc=DATA%20ANALYST%20%7C%20BUSINESS%20INTELLIGENCE%20%7C%20POWER%20BI&descAlignY=61&color=EAF7F0&fontColor=1F2937&animation=fadeIn" width="100%" alt="Omar Al-Dahleh"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=OMAR%20AL-DAHLEH&fontSize=52&fontAlignY=38&desc=DATA%20ANALYST%20%7C%20BUSINESS%20INTELLIGENCE%20%7C%20POWER%20BI&descAlignY=61&color=EAF7F0&fontColor=A855F7&animation=fadeIn" width="100%" alt="Omar Al-Dahleh"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=2800&pause=1000&center=true&vCenter=true&width=760&lines=Turning+raw+data+into+clear+business+insights.;Building+decision-ready+Power+BI+dashboards.;SQL+%7C+Python+%7C+Power+BI+%7C+DAX+%7C+Excel" alt="Data analytics focus"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=2800&pause=1000&center=true&vCenter=true&width=760&color=A855F7&lines=Turning+raw+data+into+clear+business+insights.;Building+decision-ready+Power+BI+dashboards.;SQL+%7C+Python+%7C+Power+BI+%7C+DAX+%7C+Excel" alt="Data analytics focus"/>
 
 <br/>
 
@@ -61,14 +61,14 @@ Clear reporting structures that connect operational metrics with **performance a
 ### Business Intelligence
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-<img src="https://img.shields.io/badge/DAX-4B4B4B?style=for-the-badge&logo=microsoft&logoColor=white" alt="DAX"/>
+<img src="https://img.shields.io/badge/DAX-A855F7?style=for-the-badge&logo=microsoft&logoColor=white" alt="DAX"/>
 <img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft&logoColor=white" alt="Power Query"/>
-<img src="https://img.shields.io/badge/Data%20Modeling-6C63FF?style=for-the-badge" alt="Data Modeling"/>
+<img src="https://img.shields.io/badge/Data%20Modeling-7C83FD?style=for-the-badge" alt="Data Modeling"/>
 <img src="https://img.shields.io/badge/Deneb%20%2F%20Vega--Lite-111827?style=for-the-badge" alt="Deneb Vega-Lite"/>
 
 ### Data & Programming
 
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/SQL-6FFFE9?style=for-the-badge&logo=postgresql&logoColor=111827" alt="SQL"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
@@ -78,7 +78,7 @@ Clear reporting structures that connect operational metrics with **performance a
 
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn"/>
-<img src="https://img.shields.io/badge/Data%20Visualization-1F2937?style=for-the-badge" alt="Data Visualization"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-A855F7?style=for-the-badge" alt="Data Visualization"/>
 
 </div>
 
@@ -165,7 +165,7 @@ A **Power BI operational analytics project** focused on call volume, agent perfo
 <br/><sub><b>Advanced DAX</b></sub>
 </td>
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/SQL-6FFFE9?style=for-the-badge&logo=postgresql&logoColor=111827" alt="SQL"/>
 <br/><sub><b>Analysis</b></sub>
 </td>
 <td align="center" width="20%">
@@ -177,7 +177,7 @@ A **Power BI operational analytics project** focused on call volume, agent perfo
 <br/><sub><b>Reporting</b></sub>
 </td>
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/ETL-6C63FF?style=for-the-badge" alt="ETL"/>
+<img src="https://img.shields.io/badge/ETL-A855F7?style=for-the-badge" alt="ETL"/>
 <br/><sub><b>Data Engineering</b></sub>
 </td>
 </tr>
