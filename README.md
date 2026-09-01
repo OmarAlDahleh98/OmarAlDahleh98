@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=OMAR%20AL-DAHLEH&fontSize=52&fontAlignY=38&desc=DATA%20ANALYST%20%7C%20BUSINESS%20INTELLIGENCE%20%7C%20POWER%20BI&descAlignY=61&color=EAF7F0&fontColor=A855F7&animation=fadeIn" width="100%" alt="Omar Al-Dahleh"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=OMAR%20AL-DAHLEH&fontSize=52&fontAlignY=38&desc=DATA%20ANALYST%20%7C%20BUSINESS%20INTELLIGENCE%20%7C%20POWER%20BI&descAlignY=61&color=A855F7&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Omar Al-Dahleh"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=2800&pause=1000&center=true&vCenter=true&width=760&color=A855F7&lines=Turning+raw+data+into+clear+business+insights.;Building+decision-ready+Power+BI+dashboards.;SQL+%7C+Python+%7C+Power+BI+%7C+DAX+%7C+Excel" alt="Data analytics focus"/>
 
