@@ -140,18 +140,17 @@ A **Power BI operational analytics project** focused on call volume, agent perfo
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OmarAlDahleh98&bg_color=ffffff&color=374151&line=2EA44F&point=111827&area=true&area_color=EAF7F0&hide_border=true&radius=10" width="98%" alt="GitHub contribution activity line chart"/>
+<img src="./profile/github-activity.svg" width="98%" alt="GitHub activity chart"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=OmarAlDahleh98&show_icons=true&hide_border=true&rank_icon=github&bg_color=ffffff&title_color=1F2937&text_color=4B5563&icon_color=2EA44F" width="48%" alt="GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAlDahleh98&layout=donut&langs_count=6&hide_border=true&bg_color=ffffff&title_color=1F2937&text_color=4B5563" width="48%" alt="Top languages donut chart"/>
+<img src="./profile/github-languages.svg" width="65%" alt="Analytics stack donut chart"/>
 
 </div>
 
 <br/>
 
-> **Note:** GitHub Analytics cards are generated from public GitHub activity and may occasionally be unavailable when the external stats service is rate-limited.
+> **Analytics are hosted directly in this repository, so the charts do not depend on external GitHub stats services.**
 
 ---
 
