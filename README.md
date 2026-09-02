@@ -84,11 +84,11 @@ Clear reporting structures that connect operational metrics with **performance a
 
 ---
 
-## ⭐ Featured Project
+## ⭐ Featured Projects
 
 <table>
 <tr>
-<td width="100%" valign="top">
+<td width="50%" valign="top">
 
 ### 📞 Call Center Performance Dashboard
 
@@ -102,7 +102,26 @@ A **Power BI operational analytics project** focused on call volume, agent perfo
 
 <div align="center">
 
-<a href="https://github.com/OmarAlDahleh98/call-center-performance-dashboard"><img src="https://img.shields.io/badge/OPEN%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open project"/></a>
+<a href="https://github.com/OmarAlDahleh98/call-center-performance-dashboard"><img src="https://img.shields.io/badge/OPEN%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open Call Center project"/></a>
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 CRM 360 Sales & Customer Analytics
+
+An **end-to-end CRM analytics project** covering data cleaning, EDA, dimensional modeling, DAX, funnel analysis, revenue, customer experience, and interactive Power BI reporting.
+
+**Stack:** `Python` · `Pandas` · `Power BI` · `DAX` · `Power Query` · `Deneb`
+
+**Demonstrates:** sales funnel analysis, conversion KPIs, revenue analysis, segmentation, lead scoring, customer satisfaction, and business insights.
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/OmarAlDahleh98/crm-analytics-dashboard"><img src="https://img.shields.io/badge/OPEN%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open CRM project"/></a>
 
 </div>
 
